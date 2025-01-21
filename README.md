@@ -1,4 +1,3 @@
-markdown
 # Minimalistic Responsive Webpage 🌐
 
 A modern, responsive, and minimalistic webpage built with HTML, CSS, and JavaScript. The design features a light purple theme, rounded components, and a collapsible left panel. It's optimized for different screen sizes with dynamic scaling and intuitive layouts.
